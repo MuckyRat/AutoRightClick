@@ -39,7 +39,7 @@ cd path/to/your/script
 ```
 2. Run the script using Python:
 ```bash
-python right_clicker.py
+python AutoRightClick.py
 ```
 3. Start and stop right-clicking:
 - Press Cmd + Z to start or stop the right-clicking action.
